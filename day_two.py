@@ -1,5 +1,7 @@
 #Today Goals:
 # [1]- strings
+# [2]- bools
+# [3]- lists
 
 txt = "hello second day!"
 scamtxt = "hello......,,..rrgggrr..banana..hello"
