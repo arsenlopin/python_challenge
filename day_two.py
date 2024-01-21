@@ -8,7 +8,7 @@ scamtxt = "hello......,,..rrgggrr..banana..hello"
 
 dic  = ("keep","coding")
 
-# txtUpdated = " ".join(dic) #just dicts and tuples are allowed 
+# txtUpdated  = " ".join(dic) #just dicts and tuples are allowed 
 # txtUpdated = txt.rpartition('second') => ('hello ', 'second', ' day!')
 # txtUpdated = txt.rsplit(' ',1) #=> ['hello', 'second', 'day!']
 # txtUpdated = scamtxt.strip("hello,.rg") 
